@@ -1,0 +1,17 @@
+# NEWS DI SARA CORRADINI
+# Modifica questo file con un editor di testo e salvalo in UTF-8.
+# Ogni notizia deve avere data, titolo e testo. Data nel formato giorno/mese/anno.
+# Separa le notizie con una riga contenente solo ---.
+# Categoria e link sono facoltativi. Per togliere una notizia, elimina il suo blocco.
+# Il testo puo' continuare su piu' righe. Una riga vuota crea un nuovo paragrafo.
+
+data: 10/10/2026
+titolo: La brochure dei servizi, da leggere con calma
+categoria: Dal mio lavoro
+testo:
+Bandi e finanza agevolata per le imprese, supporto amministrativo per i piccoli artigiani: nella brochure trovi i due percorsi e le attività con cui posso affiancarti.
+
+Puoi leggerla con calma e poi raccontarmi quale progetto o pratica vorresti affrontare. Il primo passo è un confronto semplice, a partire dal tuo lavoro.
+link: assets/brochure-servizi.pdf
+
+# Per aggiungere una notizia, inserisci --- e un nuovo blocco come quello sopra.
