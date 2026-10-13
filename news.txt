@@ -19,4 +19,4 @@ link: assets/brochure-servizi.pdf
 data: 13/10/2023
 titolo: BONUS COLONNINE DOMESTICHE
 testo: Cos'è: Rimborso statale dell'80% per l'acquisto e l'installazione di colonnine o wallbox per auto elettriche.   A chi è rivolto: Persone fisiche residenti in Italia e condomìni (per parti comuni).   Limiti: Fino a 1.500 € per i privati e fino a 8.000 € per i condomìni.   Come richiederlo: Tramite la piattaforma online di Invitalia.   
-link: 
+link: asset/BONUS COLONNINE DOMESTICHE.pdf
